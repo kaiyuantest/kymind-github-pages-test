@@ -8,7 +8,7 @@
       "parentId": null,
       "depth": 0,
       "x": 0.0,
-      "y": 344.0,
+      "y": 263.0,
       "width": 82.0,
       "height": 34.0,
       "text": "测试",
@@ -144,7 +144,7 @@
       "parentId": "r-103",
       "depth": 1,
       "x": 220.0,
-      "y": 425.0,
+      "y": 398.0,
       "width": 82.0,
       "height": 34.0,
       "text": "新节点",
@@ -276,27 +276,10 @@
       "hasChildren": false
     },
     {
-      "id": "next-mte55b1l-b",
+      "id": "next-mte5p3en-n",
       "parentId": "next-mtdzr4lh-3",
       "depth": 2,
       "x": 440.0,
-      "y": 506.0,
-      "width": 82.0,
-      "height": 34.0,
-      "text": "新节点",
-      "lines": [
-        "新节点"
-      ],
-      "noteText": "",
-      "link": null,
-      "image": null,
-      "hasChildren": true
-    },
-    {
-      "id": "next-mte55ccv-c",
-      "parentId": "next-mte55b1l-b",
-      "depth": 3,
-      "x": 660.0,
       "y": 452.0,
       "width": 82.0,
       "height": 34.0,
@@ -307,70 +290,19 @@
       "noteText": "",
       "link": null,
       "image": null,
-      "hasChildren": false
-    },
-    {
-      "id": "next-mte55d9m-d",
-      "parentId": "next-mte55b1l-b",
-      "depth": 3,
-      "x": 660.0,
-      "y": 560.0,
-      "width": 82.0,
-      "height": 34.0,
-      "text": "新节点",
-      "lines": [
-        "新节点"
-      ],
-      "noteText": "",
-      "link": null,
-      "image": null,
       "hasChildren": true
     },
     {
-      "id": "next-mte55dzx-e",
-      "parentId": "next-mte55d9m-d",
-      "depth": 4,
-      "x": 880.0,
-      "y": 506.0,
+      "id": "next-mte5p52x-o",
+      "parentId": "next-mte5p3en-n",
+      "depth": 3,
+      "x": 660.0,
+      "y": 452.0,
       "width": 82.0,
       "height": 34.0,
-      "text": "新节点",
+      "text": "大",
       "lines": [
-        "新节点"
-      ],
-      "noteText": "",
-      "link": null,
-      "image": null,
-      "hasChildren": false
-    },
-    {
-      "id": "next-mte55f5z-f",
-      "parentId": "next-mte55d9m-d",
-      "depth": 4,
-      "x": 880.0,
-      "y": 560.0,
-      "width": 82.0,
-      "height": 34.0,
-      "text": "新节点",
-      "lines": [
-        "新节点"
-      ],
-      "noteText": "",
-      "link": null,
-      "image": null,
-      "hasChildren": false
-    },
-    {
-      "id": "next-mte55ibn-g",
-      "parentId": "next-mte55d9m-d",
-      "depth": 4,
-      "x": 880.0,
-      "y": 614.0,
-      "width": 82.0,
-      "height": 34.0,
-      "text": "22",
-      "lines": [
-        "22"
+        "大"
       ],
       "noteText": "",
       "link": null,
@@ -382,7 +314,7 @@
       "parentId": "r-103",
       "depth": 1,
       "x": 220.0,
-      "y": 668.0,
+      "y": 506.0,
       "width": 82.0,
       "height": 34.0,
       "text": "自由节点",
@@ -452,59 +384,39 @@
       "path": "M 522.0 361.0 C 591.0 361.0, 591.0 415.0, 660.0 415.0"
     },
     {
-      "from": "next-mte55d9m-d",
-      "to": "next-mte55dzx-e",
-      "path": "M 742.0 577.0 C 811.0 577.0, 811.0 523.0, 880.0 523.0"
-    },
-    {
-      "from": "next-mte55d9m-d",
-      "to": "next-mte55f5z-f",
-      "path": "M 742.0 577.0 C 811.0 577.0, 811.0 577.0, 880.0 577.0"
-    },
-    {
-      "from": "next-mte55d9m-d",
-      "to": "next-mte55ibn-g",
-      "path": "M 742.0 577.0 C 811.0 577.0, 811.0 631.0, 880.0 631.0"
-    },
-    {
-      "from": "next-mte55b1l-b",
-      "to": "next-mte55ccv-c",
-      "path": "M 522.0 523.0 C 591.0 523.0, 591.0 469.0, 660.0 469.0"
-    },
-    {
-      "from": "next-mte55b1l-b",
-      "to": "next-mte55d9m-d",
-      "path": "M 522.0 523.0 C 591.0 523.0, 591.0 577.0, 660.0 577.0"
+      "from": "next-mte5p3en-n",
+      "to": "next-mte5p52x-o",
+      "path": "M 522.0 469.0 C 591.0 469.0, 591.0 469.0, 660.0 469.0"
     },
     {
       "from": "next-mtdzr4lh-3",
       "to": "next-mtdzr720-5",
-      "path": "M 302.0 442.0 C 371.0 442.0, 371.0 361.0, 440.0 361.0"
+      "path": "M 302.0 415.0 C 371.0 415.0, 371.0 361.0, 440.0 361.0"
     },
     {
       "from": "next-mtdzr4lh-3",
-      "to": "next-mte55b1l-b",
-      "path": "M 302.0 442.0 C 371.0 442.0, 371.0 523.0, 440.0 523.0"
+      "to": "next-mte5p3en-n",
+      "path": "M 302.0 415.0 C 371.0 415.0, 371.0 469.0, 440.0 469.0"
     },
     {
       "from": "r-103",
       "to": "next-mtdzr34m-1",
-      "path": "M 82.0 361.0 C 151.0 361.0, 151.0 37.0, 220.0 37.0"
+      "path": "M 82.0 280.0 C 151.0 280.0, 151.0 37.0, 220.0 37.0"
     },
     {
       "from": "r-103",
       "to": "next-mtdzr3o1-2",
-      "path": "M 82.0 361.0 C 151.0 361.0, 151.0 131.5, 220.0 131.5"
+      "path": "M 82.0 280.0 C 151.0 280.0, 151.0 131.5, 220.0 131.5"
     },
     {
       "from": "r-103",
       "to": "next-mtdzr4lh-3",
-      "path": "M 82.0 361.0 C 151.0 361.0, 151.0 442.0, 220.0 442.0"
+      "path": "M 82.0 280.0 C 151.0 280.0, 151.0 415.0, 220.0 415.0"
     },
     {
       "from": "r-103",
       "to": "next-mte536eo-a",
-      "path": "M 82.0 361.0 C 151.0 361.0, 151.0 685.0, 220.0 685.0"
+      "path": "M 82.0 280.0 C 151.0 280.0, 151.0 523.0, 220.0 523.0"
     }
   ]
 }
