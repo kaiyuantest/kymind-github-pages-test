@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "projectId": "live-fixture",
+  "title": "KyMind GitHub Pages 验证",
+  "author": {
+    "githubLogin": "kaiyuantest"
+  },
+  "repository": "kaiyuantest/kymind-github-pages-test",
+  "branch": "main",
+  "publishedAt": 1787980255402,
+  "sceneIndex": "scene/index.json",
+  "sourceDocument": "source/document.json",
+  "license": "测试用途",
+  "checksums": {
+    "scene/index.json": "ca6af38b91c1eea40c04b90a938bd440e5885828c01d647ea417fced2c1f9772",
+    "source/document.json": "45d5f3d337cd2ae6750f7327622a0ef6d687b5a5a9e680d07b1499566781fcb4"
+  },
+  "capabilities": {
+    "view": true,
+    "clone": true,
+    "collaboration": true,
+    "downloadSource": true
+  }
+}

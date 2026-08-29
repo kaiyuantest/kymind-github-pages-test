@@ -1,0 +1,35 @@
+{
+  "root": {
+    "data": {
+      "id": "root",
+      "text": "KyMind GitHub Pages 验证",
+      "note": "公开 Viewer fixture，不包含 Token、本地路径或编辑器核心。"
+    },
+    "children": [
+      {
+        "data": {
+          "id": "n1",
+          "text": "发布包",
+          "note": "manifest + scene + source + Viewer"
+        },
+        "children": []
+      },
+      {
+        "data": {
+          "id": "n2",
+          "text": "数学公式 $E=mc^2$",
+          "hyperlink": "https://github.com/"
+        },
+        "children": []
+      },
+      {
+        "data": {
+          "id": "n3",
+          "text": "远程共创",
+          "note": "分支、提交、Pull Request、语义合并"
+        },
+        "children": []
+      }
+    ]
+  }
+}
