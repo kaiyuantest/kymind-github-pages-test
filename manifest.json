@@ -1,19 +1,20 @@
 {
   "schemaVersion": 1,
-  "projectId": "live-fixture",
-  "title": "KyMind GitHub Pages 验证",
+  "projectId": "bbc949ee-c2be-4244-9fb2-1b67da85fa49",
+  "mapId": "bbc949ee-c2be-4244-9fb2-1b67da85fa49",
+  "title": "测试",
   "author": {
     "githubLogin": "kaiyuantest"
   },
   "repository": "kaiyuantest/kymind-github-pages-test",
   "branch": "main",
-  "publishedAt": 1787980255402,
+  "publishedAt": 1787987466019,
   "sceneIndex": "scene/index.json",
   "sourceDocument": "source/document.json",
-  "license": "测试用途",
+  "license": "MIT",
   "checksums": {
-    "scene/index.json": "ca6af38b91c1eea40c04b90a938bd440e5885828c01d647ea417fced2c1f9772",
-    "source/document.json": "45d5f3d337cd2ae6750f7327622a0ef6d687b5a5a9e680d07b1499566781fcb4"
+    "scene/index.json": "d38454cd220aa00987cc754e81b5ebeec2853a9e3cb5bd6527165df2f96fcfe7",
+    "source/document.json": "9788dd50e8bba797998e21a1f4013ee2324bbbc89b9e15b9702a28525cccb7ef"
   },
   "capabilities": {
     "view": true,

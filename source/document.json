@@ -1,34 +1,67 @@
 {
+  "template": "default",
+  "theme": "fresh-purple-compat",
+  "version": "1.4.33",
   "root": {
     "data": {
-      "id": "root",
-      "text": "KyMind GitHub Pages 验证",
-      "note": "公开 Viewer fixture，不包含 Token、本地路径或编辑器核心。"
+      "id": "r-103",
+      "text": "测试",
+      "created": 1787984132723,
+      "updated": 1787984410373,
+      "expandState": "expand"
     },
     "children": [
       {
         "data": {
-          "id": "n1",
-          "text": "发布包",
-          "note": "manifest + scene + source + Viewer"
+          "id": "next-mtdzr34m-1",
+          "text": "新节点",
+          "created": 1787984408470,
+          "updated": 1787984408843,
+          "expandState": "expand"
         },
         "children": []
       },
       {
         "data": {
-          "id": "n2",
-          "text": "数学公式 $E=mc^2$",
-          "hyperlink": "https://github.com/"
+          "id": "next-mtdzr3o1-2",
+          "text": "新节点",
+          "created": 1787984409169,
+          "updated": 1787984412002,
+          "expandState": "expand"
         },
-        "children": []
+        "children": [
+          {
+            "data": {
+              "id": "next-mtdzr5uq-4",
+              "text": "新节点",
+              "created": 1787984412002,
+              "updated": 1787984412264,
+              "expandState": "expand"
+            },
+            "children": []
+          }
+        ]
       },
       {
         "data": {
-          "id": "n3",
-          "text": "远程共创",
-          "note": "分支、提交、Pull Request、语义合并"
+          "id": "next-mtdzr4lh-3",
+          "text": "新节点",
+          "created": 1787984410373,
+          "updated": 1787984413560,
+          "expandState": "expand"
         },
-        "children": []
+        "children": [
+          {
+            "data": {
+              "id": "next-mtdzr720-5",
+              "text": "新节点",
+              "created": 1787984413560,
+              "updated": 1787984413753,
+              "expandState": "expand"
+            },
+            "children": []
+          }
+        ]
       }
     ]
   }

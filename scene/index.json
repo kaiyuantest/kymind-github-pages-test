@@ -1,86 +1,136 @@
 {
   "schemaVersion": 1,
-  "projectId": "live-fixture",
-  "title": "KyMind GitHub Pages 验证",
+  "projectId": "bbc949ee-c2be-4244-9fb2-1b67da85fa49",
+  "title": "测试",
   "nodes": [
     {
-      "id": "root",
+      "id": "r-103",
       "parentId": null,
       "depth": 0,
-      "x": 0,
-      "y": 72,
-      "width": 190,
-      "height": 38,
-      "text": "KyMind GitHub Pages 验证",
+      "x": 0.0,
+      "y": 74.0,
+      "width": 82.0,
+      "height": 34.0,
+      "text": "测试",
       "lines": [
-        "KyMind GitHub Pages",
-        "验证"
+        "测试"
       ],
-      "noteText": "公开 Viewer fixture，不包含 Token、本地路径或编辑器核心。",
+      "noteText": "",
+      "link": null,
+      "image": null,
       "hasChildren": true
     },
     {
-      "id": "n1",
-      "parentId": "root",
+      "id": "next-mtdzr34m-1",
+      "parentId": "r-103",
       "depth": 1,
-      "x": 240,
-      "y": 0,
-      "width": 150,
-      "height": 34,
-      "text": "发布包",
+      "x": 220.0,
+      "y": 20.0,
+      "width": 82.0,
+      "height": 34.0,
+      "text": "新节点",
       "lines": [
-        "发布包"
-      ],
-      "noteText": "manifest + scene + source + Viewer",
-      "hasChildren": false
-    },
-    {
-      "id": "n2",
-      "parentId": "root",
-      "depth": 1,
-      "x": 240,
-      "y": 70,
-      "width": 180,
-      "height": 34,
-      "text": "数学公式 $E=mc^2$",
-      "lines": [
-        "数学公式 $E=mc^2$"
+        "新节点"
       ],
       "noteText": "",
-      "link": "https://github.com/",
+      "link": null,
+      "image": null,
       "hasChildren": false
     },
     {
-      "id": "n3",
-      "parentId": "root",
+      "id": "next-mtdzr3o1-2",
+      "parentId": "r-103",
       "depth": 1,
-      "x": 240,
-      "y": 140,
-      "width": 150,
-      "height": 34,
-      "text": "远程共创",
+      "x": 220.0,
+      "y": 74.0,
+      "width": 82.0,
+      "height": 34.0,
+      "text": "新节点",
       "lines": [
-        "远程共创"
+        "新节点"
       ],
-      "noteText": "分支、提交、Pull Request、语义合并",
+      "noteText": "",
+      "link": null,
+      "image": null,
+      "hasChildren": true
+    },
+    {
+      "id": "next-mtdzr5uq-4",
+      "parentId": "next-mtdzr3o1-2",
+      "depth": 2,
+      "x": 440.0,
+      "y": 74.0,
+      "width": 82.0,
+      "height": 34.0,
+      "text": "新节点",
+      "lines": [
+        "新节点"
+      ],
+      "noteText": "",
+      "link": null,
+      "image": null,
+      "hasChildren": false
+    },
+    {
+      "id": "next-mtdzr4lh-3",
+      "parentId": "r-103",
+      "depth": 1,
+      "x": 220.0,
+      "y": 128.0,
+      "width": 82.0,
+      "height": 34.0,
+      "text": "新节点",
+      "lines": [
+        "新节点"
+      ],
+      "noteText": "",
+      "link": null,
+      "image": null,
+      "hasChildren": true
+    },
+    {
+      "id": "next-mtdzr720-5",
+      "parentId": "next-mtdzr4lh-3",
+      "depth": 2,
+      "x": 440.0,
+      "y": 128.0,
+      "width": 82.0,
+      "height": 34.0,
+      "text": "新节点",
+      "lines": [
+        "新节点"
+      ],
+      "noteText": "",
+      "link": null,
+      "image": null,
       "hasChildren": false
     }
   ],
   "edges": [
     {
-      "from": "root",
-      "to": "n1",
-      "path": "M 190 91 C 215 91, 215 17, 240 17"
+      "from": "next-mtdzr3o1-2",
+      "to": "next-mtdzr5uq-4",
+      "path": "M 302.0 91.0 C 371.0 91.0, 371.0 91.0, 440.0 91.0"
     },
     {
-      "from": "root",
-      "to": "n2",
-      "path": "M 190 91 C 215 91, 215 87, 240 87"
+      "from": "next-mtdzr4lh-3",
+      "to": "next-mtdzr720-5",
+      "path": "M 302.0 145.0 C 371.0 145.0, 371.0 145.0, 440.0 145.0"
     },
     {
-      "from": "root",
-      "to": "n3",
-      "path": "M 190 91 C 215 91, 215 157, 240 157"
+      "from": "r-103",
+      "to": "next-mtdzr34m-1",
+      "path": "M 82.0 91.0 C 151.0 91.0, 151.0 37.0, 220.0 37.0"
+    },
+    {
+      "from": "r-103",
+      "to": "next-mtdzr3o1-2",
+      "path": "M 82.0 91.0 C 151.0 91.0, 151.0 91.0, 220.0 91.0"
+    },
+    {
+      "from": "r-103",
+      "to": "next-mtdzr4lh-3",
+      "path": "M 82.0 91.0 C 151.0 91.0, 151.0 145.0, 220.0 145.0"
     }
   ]
 }
