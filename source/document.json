@@ -140,8 +140,11 @@
               "id": "next-mteq90t5-j",
               "text": "为阿斯顿",
               "created": 1788028915289,
-              "updated": 1788034580733,
-              "expandState": "expand"
+              "updated": 1788034773938,
+              "expandState": "expand",
+              "note": "阿萨德阿是$4\\log\\overrightarrow{3}$",
+              "noteHtml": "<p>阿萨德阿是<span class=\"km-math\" contenteditable=\"false\" data-km-math=\"true\" data-latex=\"4\\log\\overrightarrow{3}\" data-display=\"inline\"><span class=\"ML__latex\"><span class=\"ML__strut\" style=\"height:1.37em\"></span><span class=\"ML__strut--bottom\" style=\"height:1.57em;vertical-align:-0.19em\"></span><span class=\"ML__base\"><span class=\"ML__cmr\">4</span><span style=\"display:inline-block;width:0.17em\"></span><span class=\"ML__op-group\"><span class=\"ML__cmr\">log</span></span><span style=\"display:inline-block;width:0.28em\"></span><span class=\"ML__vlist-t\"><span class=\"ML__vlist-r\"><span class=\"ML__vlist\" style=\"height:1.37em\"><span class=\"ML__center\" style=\"top:-3em\"><span class=\"ML__pstrut\" style=\"height:3em\"></span><span style=\"height:0.65em;display:inline-block\"><span class=\"ML__nulldelimiter ML__open\" style=\"width:0.12em\"></span><span class=\"ML__cmr\">3</span><span class=\"ML__nulldelimiter ML__close\" style=\"width:0.12em\"></span></span></span><span class=\"ML__center\" style=\"top:-3.83em\"><span class=\"ML__pstrut\" style=\"height:3em\"></span><span style=\"height:0.53em;display:inline-block\"><span style=\"display:inline-block;height:0.522em;min-width:0.888em;\"><span class=\"slice-1-of-1\" style=\"height:0.522em\"><svg width=\"400em\" height=\"0.522em\" viewBox=\"0 0 400000 522\" preserveAspectRatio=\"xMaxYMin slice\"><path fill=\"currentcolor\" d=\"M0 241v40h399891c-47.3 35.3-84 78-110 128\n-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20\n 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7\n 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85\n-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5\n-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67\n 151.7 139 205zm0 0v40h399900v-40z\"></path></svg></span></span></span></span></span></span></span></span></span></span></p>\n",
+              "noteMode": "markdown"
             },
             "children": [
               {
@@ -149,7 +152,7 @@
                   "id": "clip-mtetmgam-0-g",
                   "text": "新节点",
                   "created": 1787984410373,
-                  "updated": 1788034712340,
+                  "updated": 1788034789239,
                   "expandState": "expand",
                   "priority": 0,
                   "progress": 0,
