@@ -358,6 +358,23 @@
       "noteText": "",
       "link": null,
       "image": null,
+      "hasChildren": true
+    },
+    {
+      "id": "next-mtettajc-s",
+      "parentId": "next-mteq9rfh-k",
+      "depth": 2,
+      "x": 440.0,
+      "y": 560.0,
+      "width": 82.0,
+      "height": 34.0,
+      "text": "新节点",
+      "lines": [
+        "新节点"
+      ],
+      "noteText": "",
+      "link": null,
+      "image": null,
       "hasChildren": false
     }
   ],
@@ -436,6 +453,11 @@
       "from": "next-mtdzr4lh-3",
       "to": "next-mteq90t5-j",
       "path": "M 302.0 334.0 C 371.0 334.0, 371.0 415.0, 440.0 415.0"
+    },
+    {
+      "from": "next-mteq9rfh-k",
+      "to": "next-mtettajc-s",
+      "path": "M 465.0 577.0 C 452.5 577.0, 452.5 577.0, 440.0 577.0"
     },
     {
       "from": "r-103",
