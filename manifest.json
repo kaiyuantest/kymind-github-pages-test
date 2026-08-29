@@ -8,13 +8,13 @@
   },
   "repository": "kaiyuantest/kymind-github-pages-test",
   "branch": "contrib/mte4bmfm",
-  "publishedAt": 1787992255622,
+  "publishedAt": 1787993377966,
   "sceneIndex": "scene/index.json",
   "sourceDocument": "source/document.json",
   "license": "未指定",
   "checksums": {
-    "scene/index.json": "80b9864d52d3be289b6c66d7d0587112bfa0dfeb95a7784c60fcfb1f4f172f3f",
-    "source/document.json": "ac97d376186ef173fe61ca3c90c75ec78686667190aebb167b30553bebccadfb"
+    "scene/index.json": "33f3b83a694b937fb2d6a9625da2f16559490a27d79180b99e9e7e2aded679ee",
+    "source/document.json": "34fa7596039359c7037a805e95b65a018e9d2c24b1085d50f36587d2e6b455ca"
   },
   "capabilities": {
     "view": true,

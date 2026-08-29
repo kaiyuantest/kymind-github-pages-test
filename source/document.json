@@ -7,7 +7,7 @@
       "id": "r-103",
       "text": "测试",
       "created": 1787984132723,
-      "updated": 1787984410373,
+      "updated": 1787993370672,
       "expandState": "expand"
     },
     "children": [
@@ -35,7 +35,7 @@
               "id": "next-mtdzr5uq-4",
               "text": "下次",
               "created": 1787984412002,
-              "updated": 1787992148720,
+              "updated": 1787993327370,
               "expandState": "expand"
             },
             "children": [
@@ -48,6 +48,37 @@
                   "expandState": "expand"
                 },
                 "children": []
+              },
+              {
+                "data": {
+                  "id": "next-mte528zu-7",
+                  "text": "新节点",
+                  "created": 1787993327370,
+                  "updated": 1787993330232,
+                  "expandState": "expand"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "next-mte52a7y-8",
+                      "text": "新节点",
+                      "created": 1787993328958,
+                      "updated": 1787993329393,
+                      "expandState": "expand"
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "next-mte52b7c-9",
+                      "text": "我",
+                      "created": 1787993330232,
+                      "updated": 1787993333117,
+                      "expandState": "expand"
+                    },
+                    "children": []
+                  }
+                ]
               }
             ]
           }
@@ -73,6 +104,21 @@
             "children": []
           }
         ]
+      },
+      {
+        "data": {
+          "id": "next-mte536eo-a",
+          "text": "自由节点",
+          "created": 1787993370672,
+          "updated": 1787993372214,
+          "layoutMode": "free",
+          "freePosition": {
+            "x": 292,
+            "y": -302.5
+          },
+          "expandState": "expand"
+        },
+        "children": []
       }
     ]
   }
