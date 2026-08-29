@@ -152,11 +152,11 @@
           "id": "next-mte536eo-a",
           "text": "自由节点",
           "created": 1787993370672,
-          "updated": 1787993372214,
+          "updated": 1787994444209,
           "layoutMode": "free",
           "freePosition": {
-            "x": 292,
-            "y": -302.5
+            "x": 327,
+            "y": -151.5
           },
           "expandState": "expand"
         },
