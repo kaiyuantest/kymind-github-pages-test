@@ -45,9 +45,9 @@
       "y": 74.0,
       "width": 82.0,
       "height": 34.0,
-      "text": "新节点",
+      "text": "大",
       "lines": [
-        "新节点"
+        "大"
       ],
       "noteText": "",
       "link": null,
@@ -62,9 +62,26 @@
       "y": 74.0,
       "width": 82.0,
       "height": 34.0,
-      "text": "新节点",
+      "text": "下次",
       "lines": [
-        "新节点"
+        "下次"
+      ],
+      "noteText": "",
+      "link": null,
+      "image": null,
+      "hasChildren": true
+    },
+    {
+      "id": "next-mte3tud8-6",
+      "parentId": "next-mtdzr5uq-4",
+      "depth": 3,
+      "x": 660.0,
+      "y": 74.0,
+      "width": 82.0,
+      "height": 34.0,
+      "text": "打算",
+      "lines": [
+        "打算"
       ],
       "noteText": "",
       "link": null,
@@ -107,6 +124,11 @@
     }
   ],
   "edges": [
+    {
+      "from": "next-mtdzr5uq-4",
+      "to": "next-mte3tud8-6",
+      "path": "M 522.0 91.0 C 591.0 91.0, 591.0 91.0, 660.0 91.0"
+    },
     {
       "from": "next-mtdzr3o1-2",
       "to": "next-mtdzr5uq-4",
