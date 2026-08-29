@@ -89,7 +89,7 @@
           "id": "next-mtdzr4lh-3",
           "text": "新节点",
           "created": 1787984410373,
-          "updated": 1787993469993,
+          "updated": 1787994393215,
           "expandState": "expand"
         },
         "children": [
@@ -168,63 +168,22 @@
           },
           {
             "data": {
-              "id": "next-mte55b1l-b",
+              "id": "next-mte5p3en-n",
               "text": "新节点",
-              "created": 1787993469993,
-              "updated": 1787993472874,
+              "created": 1787994393215,
+              "updated": 1787994395385,
               "expandState": "expand"
             },
             "children": [
               {
                 "data": {
-                  "id": "next-mte55ccv-c",
-                  "text": "新节点",
-                  "created": 1787993471695,
-                  "updated": 1787993472019,
+                  "id": "next-mte5p52x-o",
+                  "text": "大",
+                  "created": 1787994395385,
+                  "updated": 1787994397274,
                   "expandState": "expand"
                 },
                 "children": []
-              },
-              {
-                "data": {
-                  "id": "next-mte55d9m-d",
-                  "text": "新节点",
-                  "created": 1787993472874,
-                  "updated": 1787993479427,
-                  "expandState": "expand"
-                },
-                "children": [
-                  {
-                    "data": {
-                      "id": "next-mte55dzx-e",
-                      "text": "新节点",
-                      "created": 1787993473821,
-                      "updated": 1787993474134,
-                      "expandState": "expand"
-                    },
-                    "children": []
-                  },
-                  {
-                    "data": {
-                      "id": "next-mte55f5z-f",
-                      "text": "新节点",
-                      "created": 1787993475335,
-                      "updated": 1787993475752,
-                      "expandState": "expand"
-                    },
-                    "children": []
-                  },
-                  {
-                    "data": {
-                      "id": "next-mte55ibn-g",
-                      "text": "22 ",
-                      "created": 1787993479427,
-                      "updated": 1787993483000,
-                      "expandState": "expand"
-                    },
-                    "children": []
-                  }
-                ]
               }
             ]
           }
