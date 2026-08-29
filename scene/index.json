@@ -8,7 +8,7 @@
       "parentId": null,
       "depth": 0,
       "x": 0.0,
-      "y": 290.0,
+      "y": 236.0,
       "width": 82.0,
       "height": 34.0,
       "text": "测试",
@@ -144,7 +144,7 @@
       "parentId": "r-103",
       "depth": 1,
       "x": 220.0,
-      "y": 317.0,
+      "y": 290.0,
       "width": 82.0,
       "height": 34.0,
       "text": "新节点",
@@ -229,7 +229,7 @@
       "parentId": "next-mtdzr4lh-3",
       "depth": 2,
       "x": 440.0,
-      "y": 398.0,
+      "y": 344.0,
       "width": 82.0,
       "height": 34.0,
       "text": "为阿斯顿",
@@ -239,91 +239,6 @@
       "noteText": "阿萨德阿是$4\\log\\overrightarrow{3}$",
       "link": null,
       "image": null,
-      "hasChildren": true
-    },
-    {
-      "id": "clip-mtetmgam-0-g",
-      "parentId": "next-mteq90t5-j",
-      "depth": 3,
-      "x": 660.0,
-      "y": 398.0,
-      "width": 82.0,
-      "height": 34.0,
-      "text": "新节点",
-      "lines": [
-        "新节点"
-      ],
-      "noteText": "",
-      "link": null,
-      "image": null,
-      "hasChildren": true
-    },
-    {
-      "id": "clip-mtetmgam-1-h",
-      "parentId": "clip-mtetmgam-0-g",
-      "depth": 4,
-      "x": 880.0,
-      "y": 344.0,
-      "width": 82.0,
-      "height": 34.0,
-      "text": "新节点",
-      "lines": [
-        "新节点"
-      ],
-      "noteText": "",
-      "link": null,
-      "image": null,
-      "hasChildren": true
-    },
-    {
-      "id": "clip-mtetmgan-4-k",
-      "parentId": "clip-mtetmgam-1-h",
-      "depth": 5,
-      "x": 1100.0,
-      "y": 344.0,
-      "width": 82.0,
-      "height": 34.0,
-      "text": "打算",
-      "lines": [
-        "打算"
-      ],
-      "noteText": "",
-      "link": null,
-      "image": null,
-      "hasChildren": false
-    },
-    {
-      "id": "clip-mtetmgam-2-i",
-      "parentId": "clip-mtetmgam-0-g",
-      "depth": 4,
-      "x": 880.0,
-      "y": 398.0,
-      "width": 82.0,
-      "height": 34.0,
-      "text": "新节点",
-      "lines": [
-        "新节点"
-      ],
-      "noteText": "",
-      "link": null,
-      "image": null,
-      "hasChildren": false
-    },
-    {
-      "id": "clip-mtetmgam-3-j",
-      "parentId": "clip-mtetmgam-0-g",
-      "depth": 4,
-      "x": 880.0,
-      "y": 452.0,
-      "width": 82.0,
-      "height": 34.0,
-      "text": "为阿斯顿",
-      "lines": [
-        "为阿斯顿"
-      ],
-      "noteText": "",
-      "link": null,
-      "image": null,
       "hasChildren": false
     },
     {
@@ -331,7 +246,7 @@
       "parentId": "r-103",
       "depth": 1,
       "x": 220.0,
-      "y": 506.0,
+      "y": 398.0,
       "width": 82.0,
       "height": 34.0,
       "text": "自由节点",
@@ -348,7 +263,7 @@
       "parentId": "r-103",
       "depth": 1,
       "x": 220.0,
-      "y": 560.0,
+      "y": 452.0,
       "width": 245.0,
       "height": 34.0,
       "text": "/contrib/mtepqec9",
@@ -365,7 +280,7 @@
       "parentId": "next-mteq9rfh-k",
       "depth": 2,
       "x": 440.0,
-      "y": 560.0,
+      "y": 452.0,
       "width": 82.0,
       "height": 34.0,
       "text": "新节点",
@@ -415,74 +330,49 @@
       "path": "M 522.0 307.0 C 591.0 307.0, 591.0 307.0, 660.0 307.0"
     },
     {
-      "from": "clip-mtetmgam-1-h",
-      "to": "clip-mtetmgan-4-k",
-      "path": "M 962.0 361.0 C 1031.0 361.0, 1031.0 361.0, 1100.0 361.0"
-    },
-    {
-      "from": "clip-mtetmgam-0-g",
-      "to": "clip-mtetmgam-1-h",
-      "path": "M 742.0 415.0 C 811.0 415.0, 811.0 361.0, 880.0 361.0"
-    },
-    {
-      "from": "clip-mtetmgam-0-g",
-      "to": "clip-mtetmgam-2-i",
-      "path": "M 742.0 415.0 C 811.0 415.0, 811.0 415.0, 880.0 415.0"
-    },
-    {
-      "from": "clip-mtetmgam-0-g",
-      "to": "clip-mtetmgam-3-j",
-      "path": "M 742.0 415.0 C 811.0 415.0, 811.0 469.0, 880.0 469.0"
-    },
-    {
-      "from": "next-mteq90t5-j",
-      "to": "clip-mtetmgam-0-g",
-      "path": "M 522.0 415.0 C 591.0 415.0, 591.0 415.0, 660.0 415.0"
-    },
-    {
       "from": "next-mtdzr4lh-3",
       "to": "next-mtdzr720-5",
-      "path": "M 302.0 334.0 C 371.0 334.0, 371.0 253.0, 440.0 253.0"
+      "path": "M 302.0 307.0 C 371.0 307.0, 371.0 253.0, 440.0 253.0"
     },
     {
       "from": "next-mtdzr4lh-3",
       "to": "next-mte5p3en-n",
-      "path": "M 302.0 334.0 C 371.0 334.0, 371.0 307.0, 440.0 307.0"
+      "path": "M 302.0 307.0 C 371.0 307.0, 371.0 307.0, 440.0 307.0"
     },
     {
       "from": "next-mtdzr4lh-3",
       "to": "next-mteq90t5-j",
-      "path": "M 302.0 334.0 C 371.0 334.0, 371.0 415.0, 440.0 415.0"
+      "path": "M 302.0 307.0 C 371.0 307.0, 371.0 361.0, 440.0 361.0"
     },
     {
       "from": "next-mteq9rfh-k",
       "to": "next-mtettajc-s",
-      "path": "M 465.0 577.0 C 452.5 577.0, 452.5 577.0, 440.0 577.0"
+      "path": "M 465.0 469.0 C 452.5 469.0, 452.5 469.0, 440.0 469.0"
     },
     {
       "from": "r-103",
       "to": "next-mtdzr34m-1",
-      "path": "M 82.0 307.0 C 151.0 307.0, 151.0 37.0, 220.0 37.0"
+      "path": "M 82.0 253.0 C 151.0 253.0, 151.0 37.0, 220.0 37.0"
     },
     {
       "from": "r-103",
       "to": "next-mtdzr3o1-2",
-      "path": "M 82.0 307.0 C 151.0 307.0, 151.0 131.5, 220.0 131.5"
+      "path": "M 82.0 253.0 C 151.0 253.0, 151.0 131.5, 220.0 131.5"
     },
     {
       "from": "r-103",
       "to": "next-mtdzr4lh-3",
-      "path": "M 82.0 307.0 C 151.0 307.0, 151.0 334.0, 220.0 334.0"
+      "path": "M 82.0 253.0 C 151.0 253.0, 151.0 307.0, 220.0 307.0"
     },
     {
       "from": "r-103",
       "to": "next-mte536eo-a",
-      "path": "M 82.0 307.0 C 151.0 307.0, 151.0 523.0, 220.0 523.0"
+      "path": "M 82.0 253.0 C 151.0 253.0, 151.0 415.0, 220.0 415.0"
     },
     {
       "from": "r-103",
       "to": "next-mteq9rfh-k",
-      "path": "M 82.0 307.0 C 151.0 307.0, 151.0 577.0, 220.0 577.0"
+      "path": "M 82.0 253.0 C 151.0 253.0, 151.0 469.0, 220.0 469.0"
     }
   ]
 }
