@@ -8,13 +8,13 @@
   },
   "repository": "kaiyuantest/kymind-github-pages-test",
   "branch": "main",
-  "publishedAt": 1787994455890,
+  "publishedAt": 1788027978336,
   "sceneIndex": "scene/index.json",
   "sourceDocument": "source/document.json",
   "license": "未指定",
   "checksums": {
-    "scene/index.json": "8fd2388e74c76907205f059f87045459807fd02c1bcb610719080df982f02c02",
-    "source/document.json": "983501e48a8dbf66bfa7c1622559dc12d74c2b1b0434b6942491138032a2a75c"
+    "scene/index.json": "e5c2cbdf819387f9f01abde9a94b56a13c588a7d2d93a8b666743ae7697a9752",
+    "source/document.json": "9b50299141fae38fcd8b3ebbd208b0094e5fff2bac5602fc32135efc59c25d0c"
   },
   "capabilities": {
     "view": true,
