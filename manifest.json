@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "projectId": "bbc949ee-c2be-4244-9fb2-1b67da85fa49",
-  "mapId": "bbc949ee-c2be-4244-9fb2-1b67da85fa49",
+  "projectId": "207cbf79-98e7-434a-b8ba-a9a988a1744e",
+  "mapId": "207cbf79-98e7-434a-b8ba-a9a988a1744e",
   "title": "测试",
   "author": {
     "githubLogin": "kaiyuantest"
   },
   "repository": "kaiyuantest/kymind-github-pages-test",
-  "branch": "main",
-  "publishedAt": 1787987466019,
+  "branch": "contrib/mte4bmfm",
+  "publishedAt": 1787992255622,
   "sceneIndex": "scene/index.json",
   "sourceDocument": "source/document.json",
-  "license": "MIT",
+  "license": "未指定",
   "checksums": {
-    "scene/index.json": "d38454cd220aa00987cc754e81b5ebeec2853a9e3cb5bd6527165df2f96fcfe7",
-    "source/document.json": "9788dd50e8bba797998e21a1f4013ee2324bbbc89b9e15b9702a28525cccb7ef"
+    "scene/index.json": "80b9864d52d3be289b6c66d7d0587112bfa0dfeb95a7784c60fcfb1f4f172f3f",
+    "source/document.json": "ac97d376186ef173fe61ca3c90c75ec78686667190aebb167b30553bebccadfb"
   },
   "capabilities": {
     "view": true,
