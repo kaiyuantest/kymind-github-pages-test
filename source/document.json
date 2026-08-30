@@ -16,7 +16,7 @@
           "id": "next-mtdzr34m-1",
           "text": "新节点",
           "created": 1787984408470,
-          "updated": 1787984408843,
+          "updated": 1788055946725,
           "expandState": "expand"
         },
         "children": []
@@ -35,7 +35,7 @@
               "id": "next-mtdzr5uq-4",
               "text": "下次",
               "created": 1787984412002,
-              "updated": 1787993327370,
+              "updated": 1788055812872,
               "expandState": "expand"
             },
             "children": [
@@ -187,5 +187,21 @@
         ]
       }
     ]
+  },
+  "extensions": {
+    "kymindNodeDiscussions": {
+      "schemaVersion": 1,
+      "enabled": true,
+      "visibility": "collaborators",
+      "teacher": {
+        "provider": "github",
+        "userId": "139661624",
+        "login": "kaiyuantest",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/139661624?v=4"
+      },
+      "studentCanResolve": false,
+      "viewerEnabled": false,
+      "clonePolicy": "keep"
+    }
   }
 }
